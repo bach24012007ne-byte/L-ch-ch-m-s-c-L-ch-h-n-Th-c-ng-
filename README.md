@@ -27,10 +27,10 @@ Trang **Lịch chăm sóc & Lịch hẹn Thú cưng** (Dashboard / Quản lý l�
 - **FontAwesome & Google Fonts (Inter):** Cung cấp hệ thống biểu tượng trực quan và font chữ chuẩn UI/UX.
 
 ## 6. Link Figma
-*(Điền link thiết kế Figma của bạn vào đây, ví dụ: https://www.figma.com/file/...)*
+- link thiết kế Figma : https://www.figma.com/board/xRaRSJAy1G7NGCxKcT3hRL/Untitled?node-id=0-1&t=6COEVMage8edx0lt-1 
 
 ## 7. Link video
-*(Điền link video demo sản phẩm của bạn vào đây, ví dụ: https://youtube.com/...)*
+- link video demo sản phẩm : https://youtu.be/p-m9KrfqB5E
 
 ## 8. Link GitHub
-*(Điền link repository GitHub của bạn vào đây, ví dụ: https://github.com/username/pet-companion)*
+link repository GitHub:  https://github.com/bach24012007ne-byte/L-ch-ch-m-s-c-L-ch-h-n-Th-c-ng-.git
